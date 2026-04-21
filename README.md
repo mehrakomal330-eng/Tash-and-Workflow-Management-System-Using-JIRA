@@ -1,4 +1,4 @@
-# Tash-and-Workflow-Management-System-Using-JIRA
+# Task-and-Workflow-Management-System-Using-JIRA
 
 ## Project Description
 
